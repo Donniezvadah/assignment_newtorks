@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But don't ignore ass.ipynb
+!ass.ipynb
+
+# Don't ignore .gitignore itself
+!.gitignore 
